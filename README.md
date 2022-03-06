@@ -17,4 +17,4 @@
 
 ## Simulation
 
-![Simulation](/SimulationPWM.PNG "Simulation")
+![Simulation](/SimulationPWM.png "Simulation")
